@@ -1,0 +1,8 @@
+C:\Users\HUY-PC\source\repos\bigdoancuoiki\bigdoancuoiki\obj\Debug\bigdoancuoiki.csprojResolveAssemblyReference.cache
+C:\Users\HUY-PC\source\repos\bigdoancuoiki\bigdoancuoiki\obj\Debug\bigdoancuoiki.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\bigdoancuoiki\bigdoancuoiki\bin\Debug\bigdoancuoiki.exe.config
+C:\Users\Asus\Downloads\bigdoancuoiki\bigdoancuoiki\obj\Debug\bigdoancuoiki.exe
+C:\Users\Asus\Downloads\bigdoancuoiki\bigdoancuoiki\obj\Debug\bigdoancuoiki.pdb
+C:\Users\Asus\Downloads\bigdoancuoiki\bigdoancuoiki\bin\Debug\bigdoancuoiki.exe
+C:\Users\Asus\Downloads\bigdoancuoiki\bigdoancuoiki\bin\Debug\bigdoancuoiki.pdb
+C:\Users\Asus\Downloads\bigdoancuoiki\bigdoancuoiki\obj\Debug\bigdoancuoiki.csprojResolveAssemblyReference.cache
